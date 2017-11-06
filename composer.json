@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/payza"
 	,"version": "0.0.1"
-	,"description": "The «Payza» payment extension for Magento 2."
+	,"description": "Payza integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/payza"
 	,"license": "proprietary"
