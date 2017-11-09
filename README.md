@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 store with the **[Payza](https://www.payza.com)** payment service.  
+The extension integrates your Magento 2 based webstore with the **[Payza](https://www.payza.com)** payment service.  
 
 ## How to buy
 The extension is not released yet, so there is no way to buy it just now.  
